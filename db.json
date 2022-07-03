@@ -1,9 +1,22 @@
 {
   "home": {
-    "headerHomeData": {
-      "sectionName": "headerHomeSection",
+    "headerData": {
+      "sectionName": "homeHeader",
       "siteTitle": "siteTitle",
       "bookButton": "book"
+    },
+     "detailsData": {
+      "sectionName": "homeDetails"
+    },
+     "discoverData": {
+      "sectionName": "homeDiscover"
+    },
+     "slideShowData": {
+      "sectionName": "homeSlideS"
+    },
+     "locationData": {
+      "sectionName": "homeLocation"
     }
+    
   }
 }
